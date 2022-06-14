@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @arya-shikha
 - 👀 I’m interested in Web Development || App Development
-- 🌱 I’m currently learning Python || C++ || HTML CSS Javascript || React JS
+- 🌱 I’m currently learning Python || C++ || HTML CSS Javascript jQuery || React JS
 - 📫 How to reach me aryashikha195@gmail.com
 
 
